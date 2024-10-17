@@ -1,0 +1,17 @@
+.edit {
+    border: 0;
+    font-size: 17px;
+    color: green;
+    border-radius: 40px;
+    height: 30px;
+    background-color: azure;
+}
+
+.remove {
+    border: 0;
+    font-size: 17px;
+    color: red;
+    border-radius: 40px;
+    height: 30px;
+    background-color: azure;
+}
